@@ -1,0 +1,1 @@
+All files placed in this folder, that are FFMPEG compatable will be removed and replaced with a .wav version of that file.
